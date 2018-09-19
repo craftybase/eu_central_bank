@@ -1,5 +1,9 @@
 # eu_central_bank changelog
 
+## 1.1.4 (Sep 6 2018)
+
+* Fix HTTPS redirection error
+
 ## 1.1.3 (Mar 24 2017)
 
 * Fix a bug in #check_currency_available
